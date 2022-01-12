@@ -1,4 +1,4 @@
-package leetcode;
+package techgig;
 /* 
  * Enter your code here. Read input from STDIN. Print your output to STDOUT. 
  * Your class should be named CandidateCode.
