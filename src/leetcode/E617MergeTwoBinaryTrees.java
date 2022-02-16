@@ -1,23 +1,11 @@
 package leetcode;
 
+import leetcode.models.TreeNode;
+
 public class E617MergeTwoBinaryTrees {
 
 }
 
-
-
- class TreeNode {
-     int val;
-     TreeNode left;
-     TreeNode right;
-     TreeNode() {}
-     TreeNode(int val) { this.val = val; }
-     TreeNode(int val, TreeNode left, TreeNode right) {
-         this.val = val;
-         this.left = left;
-         this.right = right;
-     }
- }
  
 class E617Solution {
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {

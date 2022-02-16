@@ -30,3 +30,43 @@ public class Demo {
 	}
 
 }
+
+interface Animal {
+	public void bark();
+	public default void eat() {
+		System.out.println("I am eating");
+	}
+}
+
+class Dog implements Animal {
+
+	@Override
+	public void bark() {
+		
+		System.out.println("bbbbbb");
+	}
+	
+}
+
+
+class Cat implements Animal {
+
+	@Override
+	public void bark() {
+		
+		System.out.println("bbbbbb");
+	}
+	
+}
+
+
+class Human implements Animal {
+
+	@Override
+	public void bark() {
+		
+		System.out.println("bbbbbb");
+	}
+	
+}
+
