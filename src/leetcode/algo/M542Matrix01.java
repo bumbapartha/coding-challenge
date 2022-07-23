@@ -13,11 +13,12 @@ public class M542Matrix01 {
 				.updateMatrix(new int[][] { new int[] { 0, 0, 0 }, new int[] { 0, 1, 0 }, new int[] { 1, 1, 1 } })));
 	}
 
+	static final int FOUR_SIDE_R[] = new int[] { 1, -1, 0, 0 };
+	static final int FOUR_SIDE_C[] = new int[] { 0, 0, 1, -1 };
 
 	class Solution {
 
-		static final int FOUR_SIDE_R[] = new int[] { 1, -1, 0, 0 };
-		static final int FOUR_SIDE_C[] = new int[] { 0, 0, 1, -1 };
+
         
         class Point {
             int x;

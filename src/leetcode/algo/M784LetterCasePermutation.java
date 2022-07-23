@@ -3,6 +3,7 @@ package leetcode.algo;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class M784LetterCasePermutation {
 	
@@ -14,7 +15,7 @@ public class M784LetterCasePermutation {
 	class Solution {
 	    public List<String> letterCasePermutation(String s) {
 	    	List<StringBuilder> list = letterCasePermutation(s.toLowerCase(), s.length());
-			return list.stream().map(sb -> sb.toString()).toList();
+			return list.stream().map(sb -> sb.toString()).collect(Collectors.toList());
 	    }
 	    
 	    
@@ -34,7 +35,7 @@ public class M784LetterCasePermutation {
 	    
 	    public List<String> letterCasePermutation(String s, boolean nonBackTracking) {
 	    	List<StringBuilder> list = letterCasePermutation(s.toLowerCase(), s.length());
-			return list.stream().map(sb -> sb.toString()).toList();
+			return list.stream().map(sb -> sb.toString()).collect(Collectors.toList());
 	    }
 	    public List<StringBuilder> letterCasePermutation(String s, int n) {
 	    	if(n==1) {

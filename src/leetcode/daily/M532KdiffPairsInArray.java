@@ -1,6 +1,5 @@
 package leetcode.daily;
 
-import static org.junit.Assert.assertEquals;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -8,7 +7,6 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import org.junit.Test;
 
 public class M532KdiffPairsInArray {
 	
@@ -48,8 +46,11 @@ public class M532KdiffPairsInArray {
         }
         return count;
     }
-	
-	@Test
+
+	public static void main(String[] args) {
+		M532KdiffPairsInArray obj = new M532KdiffPairsInArray();
+		obj.test();
+	}
 	public void test() {
 		assertEquals(2, findPairs(new int[] {3,1,4,1,5}, 2));
 		assertEquals(4, findPairs(new int[] {1,2,3,4,5}, 1));
@@ -58,5 +59,8 @@ public class M532KdiffPairsInArray {
 		assertEquals(5, findPairs(new int[] {6,3,5,7,2,3,3,8,2,4}, 2));
 		//3,5 : 7,5: 6,8; 2:4, 6:4
 	}
-	
+
+	private void assertEquals(int x, int y){
+		System.out.println((x == y)? "Success" : "Fail");
+	}
 }
