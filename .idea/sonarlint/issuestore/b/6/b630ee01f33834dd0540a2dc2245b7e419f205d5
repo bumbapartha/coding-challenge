@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¾¬ûÿÿÿÿ
+Z
+java:S1612"DReplace this lambda with method reference 'StringBuilder::toString'.(ÌßÂš
+L
+java:S1172$"6Remove this unused method parameter "nonBackTracking".(Éã­‹
+Z
+java:S1612&"DReplace this lambda with method reference 'StringBuilder::toString'.(ÌßÂš
+F
+java:S1905="0Remove this unnecessary cast to "StringBuilder".(ÃÄêÀ

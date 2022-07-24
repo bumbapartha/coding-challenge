@@ -1,0 +1,27 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±Äù®
+L
+java:S1197"*Move the array designators [] to the type.(Ïğ‹•ûÿÿÿÿ8ƒñİ¢0
+G
+java:S1197"*Move the array designators [] to the type.(”ˆ„Ç8ƒñİ¢0
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Ç„Øì
+Q
+java:S1854*";Remove this useless assignment to local variable "oldData".(…Æ±ª
+B
+java:S1197",Move the array designators [][] to the type.(ü¡İŸ
+B
+java:S1481",Remove this unused "oldData" local variable.(‹‚ö 
+C
+java:S1905G"(Remove this unnecessary cast to "Entry".(İĞùóşÿÿÿÿ
+g
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(õ«ˆ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(¾‚
+g
+java:S1871]"LThis branch's code block is the same as the block for the branch on line 89.(—œŠ‘şÿÿÿÿ
+g
+java:S1871_"LThis branch's code block is the same as the block for the branch on line 89.(Š¡¡ıüÿÿÿÿ
+b
+java:S1871["LThis branch's code block is the same as the block for the branch on line 89.(¡¡åœ
+R
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ8–ƒñİ¢0

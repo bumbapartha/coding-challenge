@@ -1,0 +1,8 @@
+
+t
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "result".(ËÇøê
+_
+java:S2259`"DA "NullPointerException" could be thrown; "result" is nullable here.(øŠœ„ÿÿÿÿÿ
+_
+java:S2259]"DA "NullPointerException" could be thrown; "result" is nullable here.(ÓÂÖíøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÒÿ
