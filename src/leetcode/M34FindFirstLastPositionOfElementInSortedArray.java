@@ -20,8 +20,8 @@ public class M34FindFirstLastPositionOfElementInSortedArray {
 
             int found = binarySearchLeft(nums, 0, nums.length, target, 0);
             if(found >= 0 && found < nums.length && nums[found] == target){
-                int left = binarySearchLeft(nums, 0, nums.length, target, -0.1);
-                int right = binarySearchLeft(nums, 0, nums.length, target, 0.1);
+                int left = binarySearchLeft(nums, 0, found, target, -0.1);
+                int right = binarySearchLeft(nums, found, nums.length, target, 0.1);
                 index[0] = left;
                 index[1] = right-1;
             }
