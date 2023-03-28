@@ -66,3 +66,9 @@ L
 src/puzzle3x3-unsolvable.txt,7/8/7801204d2b211ff543ed9b3a86620d1cdaeedaa6
 @
 src/distinct.txt,f/8/f8156f6fffd119122435f3b66f83b82deef670ac
+P
+ src/leetcode/M322CoinChange.java,8/a/8a1da324be93be874190c6c5235dbe1ce385debe
+b
+2src/leetcode/M1043PartitionArrayForMaximumSum.java,a/8/a811aec86f177e2cff12274c6a298fece8389c2e
+b
+2src/leetcode/M2545SortStudentsByTheirKthScore.java,9/5/950e2a0a570bba4309c85c6468d5ed868204d56f
