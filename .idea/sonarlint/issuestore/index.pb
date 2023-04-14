@@ -72,3 +72,15 @@ b
 2src/leetcode/M1043PartitionArrayForMaximumSum.java,a/8/a811aec86f177e2cff12274c6a298fece8389c2e
 b
 2src/leetcode/M2545SortStudentsByTheirKthScore.java,9/5/950e2a0a570bba4309c85c6468d5ed868204d56f
+K
+src/sort/SelectionSort.java,5/0/5009296a7145c0c4a4443502f4807d945ac6be0b
+M
+src/sort/InsertationSort.java,b/4/b4ba7adf941a21d87210bf83466f21a8c3e07409
+H
+src/sort/BubbleSort.java,c/4/c4ca745fbe1b508a29753bfe745877aa88157193
+J
+src/sort/SortMainTest.java,0/4/0445caa120012b9ad2c5a5f14fe27b0c828e9ba4
+J
+src/sort/CountingSort.java,0/d/0db0af4f40b361f8d5b96cd7f985cf38a71f2d03
+N
+src/techgig/CandidateCode.java,4/9/493cfd841a6c292e3bd1287a3c838763f67f083b
