@@ -84,3 +84,17 @@ J
 src/sort/CountingSort.java,0/d/0db0af4f40b361f8d5b96cd7f985cf38a71f2d03
 N
 src/techgig/CandidateCode.java,4/9/493cfd841a6c292e3bd1287a3c838763f67f083b
+m
+=src/codejam2022/round/qualification/PunchedCardsSolution.java,b/d/bd5ed8952bc4ae882bfba1d86aca7c2ddd108a30
+k
+;src/codejam2022/round/qualification/Solution3DPrinting.java,b/5/b52cd0feced8e7c249404f848f495a6fbb85c227
+T
+$src/codejam2023/roundA/AsciiArt.java,b/9/b916a2ddb3cf6451ee0e8b601c31382c0225e331
+]
+-src/codejam2023/roundA/CollidingEncoding.java,5/9/59ebe8f022b80ceb6d42bacea04c371c57aa4c92
+W
+'src/codejam2023/roundA/RainbowSort.java,7/c/7c7289a777cea837ceb5befb5e1ecdb0f46cd4a1
+^
+.src/codejam2023/roundB/CollectingPancakes.java,1/3/134f66597b6a4860ed922017e27fdca0d9a0b5d5
+Q
+!src/codejam2023/roundA/Untie.java,1/7/170cd5bea181be183093575131bd1e29d049d078
